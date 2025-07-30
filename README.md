@@ -124,7 +124,25 @@ Use this system to teach with tension, guide with compassion, and ignite compreh
 🛠 Usage
 Load the full prompt into your GPT-4o session or as a custom GPT. Begin by asking a math question or simply typing:
 
-text
+## 📜 License & Attribution
+
+**PEMDAS Academy**  
+Copyright © 2025 Raymond Denney. All rights reserved.
+
+This project is licensed under the  
+[Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — You must license your derivatives under the same terms.
+
+For commercial use inquiries, contact the author directly.
+
 Copy
 Edit
 "Let's begin the lesson."
